@@ -1,3 +1,2 @@
 console.log('config.js');
-console.log('version4');
-console.log('udated');
+console.log('version2');
